@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\bin\Debug\net10.0\Restaurants.Application.deps.json
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\bin\Debug\net10.0\Restaurants.Application.dll
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\bin\Debug\net10.0\Restaurants.Application.pdb
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\bin\Debug\net10.0\Restaurants.Domain.dll
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\bin\Debug\net10.0\Restaurants.Domain.pdb
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.sourcelink.json
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaura.6AB96A7C.Up2Date
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.dll
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\refint\Restaurants.Application.dll
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\Restaurants.Application.pdb
+C:\Users\USER\OneDrive\Desktop\Visual Studio Folder\vs Porjects\Individual Projects\Restaurant solution\Restaurants.Application\obj\Debug\net10.0\ref\Restaurants.Application.dll
