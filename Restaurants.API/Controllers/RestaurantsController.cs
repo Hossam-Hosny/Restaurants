@@ -8,13 +8,22 @@ namespace Restaurants.API.Controllers;
 public class RestaurantsController(IRestaurantsService restaurantsService):ControllerBase
 {
 
-    [HttpGet]
+    [HttpGet("[action]")]
     public async Task<IActionResult> GetAll()
     {
         var restaurants = await restaurantsService.GetAllRestaurants();
         return Ok(restaurants);
     }
 
+    [HttpGet("[action]/{id}")]
+    public async Task<IActionResult> GetById(int id)
+    {
+        var restaurant = await restaurantsService.GetRestaurantByIdD(id);
+        if (restaurant == null)
+            return NotFound();
+      
+        return Ok(restaurant);
+    }
 
 
 }
